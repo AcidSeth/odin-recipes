@@ -1,0 +1,49 @@
+* {
+    font-family: 'Lucida Handwriting', sans-serif;
+}
+
+img {
+    width: 700px;
+    height: auto;
+}
+
+body {
+    background-color: rgba(12, 12, 29, 0.952);
+}
+
+.link {
+    font-family: "Brush Script MT";
+    font-size: 22px;
+}
+
+p, h1, h2, h3, div {
+    color: rgb(232, 253, 255);
+}
+
+h1, h2 {
+    font-family: 'Brush Script MT (cursive)';
+}
+
+h1 {
+    font-size: 40px;
+}
+
+li {
+    color: rgb(255, 255, 255);
+}
+
+.li.recipes, ul li{
+    color: rgb(255, 208, 0);
+}
+
+a {
+    color: #D1EAAE;
+}
+
+#garfeld {
+    width: 400px;
+    height: auto;
+}
+
+
+
